@@ -1,5 +1,7 @@
 # Pass the Ember
 
+[▶ Watch the 58-second video](https://augustindal.github.io/pass-the-ember/)
+
 A local multiplayer game with people and AI. Default contestants: **Luna, Terra, Sonnet and Haiku**. Muse always draws and checks the one prompt submitted per round. Everyone else guesses from the image. The UI moves through **DRAW → GUESS → SCORE**, followed by **Next round**. A 24-place pool spans California, Norway and Nepal with four increasing difficulty tiers.
 
 ```sh
